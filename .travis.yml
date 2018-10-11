@@ -14,12 +14,14 @@ install:
 script:
 - bash ./sync.sh 5
 before_install:
-- openssl aes-256-cbc -K $encrypted_9d3b19838c65_key -iv $encrypted_9d3b19838c65_iv
-  -in .travis/conf.tar.gz.enc -out ~/conf.tar.gz -d
+- export start_time=$(date +%s)
 - mkdir -p ~/.docker
 - mkdir -p ~/.ssh
+- openssl aes-256-cbc -K $encrypted_9d3b19838c65_key -iv $encrypted_9d3b19838c65_iv
+  -in .travis/conf.tar.gz.enc -out ~/conf.tar.gz -d
 - tar zxf ~/conf.tar.gz -C ~
-- chmod 600 ~/.ssh/id_rsa
-- chmod 600 ~/.docker/config.json
 - eval $(ssh-agent)
 - ssh-add ~/.ssh/id_rsa
+- chmod 600 ~/.ssh/id_rsa
+- chmod 600 ~/.docker/config.json
+- df -h
