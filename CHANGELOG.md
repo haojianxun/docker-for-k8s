@@ -1,3 +1,14 @@
+- haojianxun/hyperkube:v1.8.1-beta.0
+- haojianxun/hyperkube:v1.7.12
+- haojianxun/hyperkube:v1.9.1-beta.0
+- haojianxun/hyperkube:v1.8.3
+- haojianxun/hyperkube:v1.9.0
+- haojianxun/hyperkube:v1.8.4
+- haojianxun/hyperkube:v1.8.4-beta.0
+- haojianxun/hyperkube:v1.8.6-beta.0
+- haojianxun/hyperkube:v1.8.5-beta.0
+- haojianxun/hyperkube:v1.8.7-beta.0
+- haojianxun/hyperkube:v1.8.5
 - haojianxun/hyperkube:v1.8.7
 - haojianxun/hyperkube:v1.9.2
 - haojianxun/hyperkube:v1.8.8-beta.0
