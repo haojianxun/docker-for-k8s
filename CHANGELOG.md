@@ -1,3 +1,8 @@
+- haojianxun/hyperkube-s390x:v1.10.7-beta.0
+- haojianxun/hyperkube-s390x:v1.10.7
+- haojianxun/hyperkube-s390x:v1.10.8
+- haojianxun/hyperkube-s390x:v1.12.0
+- haojianxun/hyperkube-s390x:v1.12.0-rc.2
 - haojianxun/hyperkube-ppc64le:v1.6.0-beta.2
 - haojianxun/hyperkube-ppc64le:v1.6.0-alpha.2
 - haojianxun/hyperkube-ppc64le:v1.6.0-beta.4
