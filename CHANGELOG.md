@@ -1,3 +1,9 @@
+- haojianxun/kube-apiserver-amd64:v1.4.12-beta.0
+- haojianxun/kube-apiserver-amd64:v1.7.5-beta.0
+- haojianxun/kube-apiserver-amd64:v1.7.6-beta.0
+- haojianxun/kube-apiserver-amd64:v1.8.0-alpha.3
+- haojianxun/kube-apiserver-amd64:v1.6.9
+- haojianxun/kube-apiserver-amd64:v1.6.10-beta.0
 - haojianxun/kube-apiserver-amd64:v1.8.2
 - haojianxun/kube-apiserver-amd64:v1.6.11-beta.0
 - haojianxun/kube-apiserver-amd64:v1.9.0-alpha.1
