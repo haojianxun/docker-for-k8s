@@ -1,3 +1,16 @@
+- haojianxun/hyperkube:v1.3.5
+- haojianxun/hyperkube:v1.3.7
+- haojianxun/hyperkube:v1.5.0-alpha.0
+- haojianxun/hyperkube:v1.4.0-beta.1
+- haojianxun/hyperkube:v1.4.0-beta.0
+- haojianxun/hyperkube:v1.4.0-alpha.3
+- haojianxun/hyperkube:v1.4.3
+- haojianxun/hyperkube:v1.4.1
+- haojianxun/hyperkube:v1.4.2
+- haojianxun/hyperkube:v1.5.0-alpha.1
+- haojianxun/hyperkube:v1.4.2-beta.0
+- haojianxun/hyperkube:v1.4.3-beta.0
+- haojianxun/hyperkube:v1.4.2-beta.1
 - haojianxun/hyperkube:v1.3.8
 - haojianxun/hyperkube:v1.3.10
 - haojianxun/hyperkube:v1.3.10-beta.0
