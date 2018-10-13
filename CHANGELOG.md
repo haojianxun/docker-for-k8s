@@ -1,3 +1,11 @@
+- haojianxun/kube-apiserver-arm64:v1.10.0-alpha.0
+- haojianxun/kube-apiserver-arm64:v1.7.12-beta.0
+- haojianxun/kube-apiserver-arm64:v1.6.10-beta.0
+- haojianxun/kube-apiserver-arm64:v1.7.5
+- haojianxun/kube-apiserver-arm64:v1.8.0-beta.1
+- haojianxun/kube-apiserver-arm64:v1.7.6
+- haojianxun/kube-apiserver-arm64:v1.9.0-alpha.1
+- haojianxun/kube-apiserver-arm64:v1.8.0-rc.1
 - haojianxun/kube-apiserver-arm64:v1.9.0
 - haojianxun/kube-apiserver-arm64:v1.8.8-beta.0
 - haojianxun/kube-apiserver-arm64:v1.8.6-beta.0
