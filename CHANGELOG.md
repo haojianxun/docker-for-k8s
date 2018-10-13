@@ -1,3 +1,16 @@
+- haojianxun/kube-controller-manager:v1.2.6-beta.0
+- haojianxun/kube-controller-manager:v1.4.0-beta.8
+- haojianxun/kube-controller-manager:v1.4.1-beta.0
+- haojianxun/kube-controller-manager:v1.4.2-beta.0
+- haojianxun/kube-controller-manager:v1.4.1
+- haojianxun/kube-controller-manager:v1.5.0-alpha.1
+- haojianxun/kube-controller-manager:v1.4.2
+- haojianxun/kube-controller-manager:v1.4.3-beta.0
+- haojianxun/kube-controller-manager:v1.4.4-beta.0
+- haojianxun/kube-controller-manager:v1.4.3
+- haojianxun/kube-controller-manager:v1.4.4
+- haojianxun/kube-controller-manager:v1.3.9
+- haojianxun/kube-controller-manager:v1.3.10-beta.0
 - haojianxun/kube-controller-manager:v1.3.11-beta.0
 - haojianxun/kube-controller-manager:v1.4.6
 - haojianxun/kube-controller-manager:v1.2.8-beta.0
