@@ -1,3 +1,8 @@
+- haojianxun/hyperkube-ppc64le:v1.6.12
+- haojianxun/hyperkube-ppc64le:v1.10.0-alpha.0
+- haojianxun/hyperkube-ppc64le:v1.8.4
+- haojianxun/hyperkube-ppc64le:v1.8.3
+- haojianxun/hyperkube-ppc64le:v1.8.4-beta.0
 - haojianxun/hyperkube-ppc64le:v1.7.12
 - haojianxun/hyperkube-ppc64le:v1.8.6-beta.0
 - haojianxun/hyperkube-ppc64le:v1.7.13
