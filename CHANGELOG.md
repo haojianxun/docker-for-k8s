@@ -1,3 +1,4 @@
+- haojianxun/hyperkube-amd64:v1.8.1
 - haojianxun/hyperkube-amd64:v1.7.15-beta.0
 - haojianxun/hyperkube-amd64:v1.7.14
 - haojianxun/hyperkube-amd64:v1.7.14-beta.0
