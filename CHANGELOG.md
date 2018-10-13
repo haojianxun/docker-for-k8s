@@ -1,3 +1,9 @@
+- haojianxun/hyperkube-arm:v1.6.0-beta.3
+- haojianxun/hyperkube-arm:v1.8.0-alpha.1
+- haojianxun/hyperkube-arm:v1.7.0-rc.1
+- haojianxun/hyperkube-arm:v1.7.2-beta.0
+- haojianxun/hyperkube-arm:v1.7.1
+- haojianxun/hyperkube-arm:v1.8.0-alpha.2
 - haojianxun/hyperkube-arm:v1.6.8
 - haojianxun/hyperkube-arm:v1.6.10-beta.0
 - haojianxun/hyperkube-arm:v1.5.9-beta.0
