@@ -1,3 +1,7 @@
+- haojianxun/kube-controller-manager-ppc64le:v1.10.0
+- haojianxun/kube-controller-manager-ppc64le:v1.10.6-beta.0
+- haojianxun/kube-controller-manager-ppc64le:v1.10.5-beta.0
+- haojianxun/kube-controller-manager-ppc64le:v1.9.10-beta.0
 - haojianxun/kube-controller-manager-ppc64le:v1.12.0-alpha.1
 - haojianxun/kube-controller-manager-ppc64le:v1.10.6
 - haojianxun/kube-controller-manager-ppc64le:v1.9.10
