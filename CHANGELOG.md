@@ -1,3 +1,21 @@
+-------------------------------at 2018-10-15 10:44:47 sync image repositorys-------------------------------
+- haojianxun/zeppelin:master-86a1a199
+- haojianxun/zeppelin:v0.5.5_v1
+- haojianxun/zeppelin:master-a4db1688
+- haojianxun/zeppelin:master
+- haojianxun/zeppelin:master-81f02485
+- haojianxun/zeppelin:master-2d893aba
+- haojianxun/zeppelin:master-600f728d
+- haojianxun/zeppelin:v0.5.6_v1
+- haojianxun/zeppelin:latest
+- haojianxun/zeppelin:v0.5.5_v3
+- haojianxun/zeppelin:v0.5.5_v2
+- haojianxun/zeppelin-proxy:latest
+- haojianxun/zookeeper-install:0.1
+- haojianxun/vpa-updater:v0.1.0
+- haojianxun/webhooks-publisher:v20160915-162352
+- haojianxun/webhooks-publisher:v20160919-140720
+- haojianxun/webhooks-publisher:v20160922-120322
 - haojianxun/volume-rbd:0.1
 - haojianxun/volume-nfs:0.1
 - haojianxun/volume-iscsi:0.1
