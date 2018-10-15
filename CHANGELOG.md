@@ -1,3 +1,11 @@
+- haojianxun/kube-cross:v1.9.3-2
+- haojianxun/kube-cross:v1.10.4-1
+- haojianxun/kube-controller-manager-s390x:v1.6.0-alpha.1
+- haojianxun/kube-controller-manager-s390x:v1.6.0-alpha.3
+- haojianxun/kube-controller-manager-s390x:v1.6.0-alpha.2
+- haojianxun/kube-controller-manager-s390x:v1.7.0-alpha.0
+- haojianxun/kube-controller-manager-s390x:v1.6.0-beta.1
+- haojianxun/kube-controller-manager-s390x:v1.6.0-beta.0
 - haojianxun/kube-controller-manager-s390x:v1.7.0-alpha.2
 - haojianxun/kube-controller-manager-s390x:v1.6.0-rc.1
 - haojianxun/kube-controller-manager-s390x:v1.6.3-beta.0
