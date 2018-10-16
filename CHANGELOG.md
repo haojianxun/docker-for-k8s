@@ -1,3 +1,40 @@
+-------------------------------at 2018-10-16 00:12:24 sync image repositorys-------------------------------
+- haojianxun/kube-scheduler-s390x:v1.13.0-alpha.1
+- haojianxun/kube-scheduler-ppc64le:v1.13.0-alpha.1
+- haojianxun/kube-scheduler-arm64:v1.13.0-alpha.1
+- haojianxun/kube-scheduler-arm:v1.13.0-alpha.1
+- haojianxun/kube-scheduler-amd64:v1.13.0-alpha.1
+- haojianxun/kube-scheduler:v1.13.0-alpha.1
+- haojianxun/kube-proxy-s390x:v1.13.0-alpha.1
+- haojianxun/kube-proxy-ppc64le:v1.13.0-alpha.1
+- haojianxun/kube-proxy-arm64:v1.13.0-alpha.1
+- haojianxun/kube-proxy-arm:v1.13.0-alpha.1
+- haojianxun/kube-proxy:v1.13.0-alpha.1
+- haojianxun/kube-proxy-amd64:v1.13.0-alpha.1
+- haojianxun/kube-controller-manager-s390x:v1.13.0-alpha.1
+- haojianxun/kube-controller-manager-ppc64le:v1.13.0-alpha.1
+- haojianxun/kube-controller-manager-arm64:v1.13.0-alpha.1
+- haojianxun/kube-controller-manager-arm:v1.13.0-alpha.1
+- haojianxun/kube-controller-manager:v1.13.0-alpha.1
+- haojianxun/kube-controller-manager-amd64:v1.13.0-alpha.1
+- haojianxun/kube-apiserver-ppc64le:v1.13.0-alpha.1
+- haojianxun/kube-apiserver-arm64:v1.13.0-alpha.1
+- haojianxun/kube-apiserver-arm:v1.13.0-alpha.1
+- haojianxun/kube-apiserver-amd64:v1.13.0-alpha.1
+- haojianxun/kube-apiserver:v1.13.0-alpha.1
+- haojianxun/hyperkube-s390x:v1.13.0-alpha.1
+- haojianxun/hyperkube-arm64:v1.13.0-alpha.1
+- haojianxun/hyperkube-ppc64le:v1.13.0-alpha.1
+- haojianxun/hyperkube-arm:v1.13.0-alpha.1
+- haojianxun/hyperkube:v1.13.0-alpha.1
+- haojianxun/hyperkube-amd64:v1.13.0-alpha.1
+- haojianxun/addon-builder:latest
+- haojianxun/cloud-controller-manager-s390x:v1.13.0-alpha.1
+- haojianxun/cloud-controller-manager-ppc64le:v1.13.0-alpha.1
+- haojianxun/cloud-controller-manager-arm64:v1.13.0-alpha.1
+- haojianxun/cloud-controller-manager-arm:v1.13.0-alpha.1
+- haojianxun/cloud-controller-manager-amd64:v1.13.0-alpha.1
+- haojianxun/cloud-controller-manager:v1.13.0-alpha.1
 -------------------------------at 2018-10-15 23:06:20 sync image repositorys-------------------------------
 -------------------------------at 2018-10-15 22:05:43 sync image repositorys-------------------------------
 -------------------------------at 2018-10-15 21:05:43 sync image repositorys-------------------------------
