@@ -1,3 +1,4 @@
+-------------------------------at 2018-10-17 01:05:37 sync image repositorys-------------------------------
 -------------------------------at 2018-10-17 00:20:38 sync image repositorys-------------------------------
 - haojianxun/kube-scheduler-s390x:v1.10.9
 - haojianxun/kube-scheduler-s390x:v1.10.10-beta.0
