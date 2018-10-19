@@ -1,3 +1,4 @@
+-------------------------------at 2018-10-19 04:06:01 sync image repositorys-------------------------------
 -------------------------------at 2018-10-19 00:10:30 sync image repositorys-------------------------------
 - haojianxun/kube-cross:v1.11.1-2
 - haojianxun/addon-builder:latest
