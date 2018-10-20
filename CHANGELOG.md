@@ -1,3 +1,4 @@
+-------------------------------at 2018-10-20 04:05:44 sync image repositorys-------------------------------
 -------------------------------at 2018-10-20 00:11:49 sync image repositorys-------------------------------
 - haojianxun/debian-base-ppc64le:0.4.0
 - haojianxun/debian-base-s390x:0.4.0
