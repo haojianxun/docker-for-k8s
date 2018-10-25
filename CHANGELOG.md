@@ -1,3 +1,14 @@
+-------------------------------at 2018-10-25 00:18:54 sync image repositorys-------------------------------
+- haojianxun/kube-scheduler-s390x:v1.13.0-alpha.2
+- haojianxun/kube-scheduler-ppc64le:v1.13.0-alpha.2
+- haojianxun/kube-scheduler-arm64:v1.13.0-alpha.2
+- haojianxun/kube-scheduler-arm:v1.13.0-alpha.2
+- haojianxun/kube-scheduler:v1.13.0-alpha.2
+- haojianxun/kube-scheduler-amd64:v1.13.0-alpha.2
+- haojianxun/kube-proxy-s390x:v1.13.0-alpha.2
+- haojianxun/kube-proxy-ppc64le:v1.13.0-alpha.2
+- haojianxun/kube-proxy-arm64:v1.13.0-alpha.2
+- haojianxun/kube-proxy-arm:v1.13.0-alpha.2
 - haojianxun/kube-controller-manager-s390x:v1.13.0-alpha.2
 - haojianxun/kube-proxy:v1.13.0-alpha.2
 - haojianxun/kube-proxy-amd64:v1.13.0-alpha.2
