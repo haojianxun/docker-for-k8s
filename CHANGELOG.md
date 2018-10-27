@@ -1,3 +1,10 @@
+-------------------------------at 2018-10-27 00:27:17 sync image repositorys-------------------------------
+- haojianxun/kube-scheduler-s390x:v1.12.2
+- haojianxun/kube-scheduler-s390x:v1.12.3-beta.0
+- haojianxun/kube-scheduler-s390x:v1.11.4
+- haojianxun/kube-scheduler-ppc64le:v1.12.2
+- haojianxun/kube-scheduler-ppc64le:v1.11.4
+- haojianxun/kube-scheduler-ppc64le:v1.12.3-beta.0
 - haojianxun/kube-scheduler-ppc64le:v1.11.5-beta.0
 - haojianxun/kube-scheduler-arm64:v1.12.2
 - haojianxun/kube-scheduler-arm64:v1.11.4
